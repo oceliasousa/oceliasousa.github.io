@@ -1,0 +1,26 @@
+.meuNome, .descricao {
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.background-color {
+    background-color: rgb(82, 82, 82);
+}
+
+body {
+    color: white;
+}
+.unix {
+    font-size: 30px;
+}
+.bash {
+    font-size: 25px;
+}
+.git {
+    font-size: 20px;
+}
+.github {
+    font-size: 15px;
+}
+.html {
+    font-size: 10px;
+}
