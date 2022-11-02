@@ -3,11 +3,11 @@
 }
 
 .background-color {
-    background-color: rgb(82, 82, 82);
+    background-color: rgba(201, 211, 218, 0.589);
 }
 
 body {
-    color: white;
+    color: black;
 }
 .unix {
     font-size: 30px;
