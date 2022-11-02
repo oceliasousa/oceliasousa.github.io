@@ -1,5 +1,12 @@
-.meuNome, .descricao {
+.meu-nome, .apresentacao {
     font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.descricao {
+    position: relative;
+    top: 15px;
+    left: 15px;
 }
 
 .background-color {
@@ -8,6 +15,8 @@
 
 body {
     color: black;
+    padding: 2%;
+
 }
 .unix {
     font-size: 30px;
@@ -24,3 +33,23 @@ body {
 .html {
     font-size: 10px;
 }
+
+#minha-foto {
+    float: left;
+    height: 710px;
+    padding: 10px;
+    height: 690px;
+    background-color: rgba(1, 2, 17, 0.432);
+    border-radius: 2%;
+}
+
+.image-container {
+    height: 710px;
+    border-radius: 2%;
+    position: relative;
+}
+
+ul li:nth-child(odd) {
+    background-color: rgba(201, 211, 218, 0.589);
+}
+
